@@ -1,4 +1,4 @@
-(ns aula4)
+(ns fourth-class)
 
 (def prices [30 70 100])
 

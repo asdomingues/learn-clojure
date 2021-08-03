@@ -1,4 +1,4 @@
-(ns aula3)
+(ns third-class)
 
 ; PREDICATE
 (defn aplica-desconto?
