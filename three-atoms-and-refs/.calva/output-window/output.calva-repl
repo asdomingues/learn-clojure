@@ -1,0 +1,731 @@
+nil
+clj꞉three-atoms-and-refs.collections꞉> 
+#'three-atoms-and-refs.collections/triage
+clj꞉three-atoms-and-refs.collections꞉> 
+#'three-atoms-and-refs.collections/triage
+clj꞉three-atoms-and-refs.collections꞉> 
+#'three-atoms-and-refs.collections/triage
+clj꞉three-atoms-and-refs.collections꞉> 
+#'three-atoms-and-refs.collections/triage
+clj꞉three-atoms-and-refs.collections꞉> 
+#'three-atoms-and-refs.collections/triage
+clj꞉three-atoms-and-refs.collections꞉> 
+#'three-atoms-and-refs.collections/triage
+clj꞉three-atoms-and-refs.collections꞉> 
+#'three-atoms-and-refs.collections/triage
+clj꞉three-atoms-and-refs.collections꞉> 
+#'three-atoms-and-refs.collections/triage
+clj꞉three-atoms-and-refs.collections꞉> triage
+#function[three-atoms-and-refs.collections/triage]
+clj꞉three-atoms-and-refs.collections꞉> 
+(triage)
+((29 28 27 26 25))
+()
+clj꞉three-atoms-and-refs.collections꞉> 
+#'three-atoms-and-refs.collections/triage
+clj꞉three-atoms-and-refs.collections꞉> 
+#'three-atoms-and-refs.collections/triage
+clj꞉three-atoms-and-refs.collections꞉> 
+((28 27 26 25))
+nil
+nil
+clj꞉three-atoms-and-refs.collections꞉> 
+((29 28 27 26 25))
+nil
+nil
+clj꞉three-atoms-and-refs.collections꞉> 
+((29 28 27 26 25))
+nil
+nil
+clj꞉three-atoms-and-refs.collections꞉> 
+((29 28 27 26 25))
+nil
+nil
+clj꞉three-atoms-and-refs.collections꞉> 
+((29 28 27 26 25))
+nil
+nil
+clj꞉three-atoms-and-refs.collections꞉> 
+((29 28 27 26 25))
+nil
+nil
+clj꞉three-atoms-and-refs.collections꞉> 
+((29 28 27 26 25))
+nil
+nil
+clj꞉three-atoms-and-refs.collections꞉> 
+((29 28 27 26 25))
+nil
+nil
+clj꞉three-atoms-and-refs.collections꞉> 
+; Execution error (ArityException) at three-atoms-and-refs.collections/eval7483 (form-init16638896775070585060.clj:8).
+; Wrong number of args (2) passed to: three-atoms-and-refs.collections/triage
+clj꞉three-atoms-and-refs.collections꞉> 
+; Execution error (ArityException) at three-atoms-and-refs.collections/eval7485 (form-init16638896775070585060.clj:8).
+; Wrong number of args (2) passed to: three-atoms-and-refs.collections/triage
+clj꞉three-atoms-and-refs.collections꞉> 
+; Execution error (ArityException) at three-atoms-and-refs.collections/eval7487 (form-init16638896775070585060.clj:7).
+; Wrong number of args (2) passed to: three-atoms-and-refs.collections/triage
+clj꞉three-atoms-and-refs.collections꞉> 
+; Execution error (ArityException) at three-atoms-and-refs.collections/eval7489 (form-init16638896775070585060.clj:7).
+; Wrong number of args (2) passed to: three-atoms-and-refs.collections/triage
+clj꞉three-atoms-and-refs.collections꞉> 
+; Execution error (ArityException) at three-atoms-and-refs.collections/eval7491 (form-init16638896775070585060.clj:7).
+; Wrong number of args (2) passed to: three-atoms-and-refs.collections/triage
+clj꞉three-atoms-and-refs.collections꞉> 
+; Execution error (ArityException) at three-atoms-and-refs.collections/eval7493 (form-init16638896775070585060.clj:7).
+; Wrong number of args (2) passed to: three-atoms-and-refs.collections/triage
+clj꞉three-atoms-and-refs.collections꞉> 
+; Execution error (ArityException) at three-atoms-and-refs.collections/eval7495 (form-init16638896775070585060.clj:7).
+; Wrong number of args (2) passed to: three-atoms-and-refs.collections/triage
+clj꞉three-atoms-and-refs.collections꞉> 
+; Execution error (ArityException) at three-atoms-and-refs.collections/eval7497 (form-init16638896775070585060.clj:7).
+; Wrong number of args (2) passed to: three-atoms-and-refs.collections/triage
+clj꞉three-atoms-and-refs.collections꞉> 
+three-atoms-and-refs.collections/eval7497 (form-init16638896775070585060.clj:7)
+clojure.lang.Compiler/eval (Compiler.java:7177)
+clojure.core/eval (core.clj:3214)
+clojure.core/eval (core.clj:3210)
+nrepl.middleware.interruptible-eval/evaluate (interruptible_eval.clj:87)
+clojure.core/apply (core.clj:665)
+clojure.core/with-bindings* (core.clj:1973)
+nrepl.middleware.interruptible-eval/evaluate (interruptible_eval.clj:87)
+clojure.main/repl (main.clj:437)
+clojure.main/repl (main.clj:458)
+clojure.main/repl (main.clj:368)
+nrepl.middleware.interruptible-eval/evaluate (interruptible_eval.clj:84)
+nrepl.middleware.interruptible-eval/evaluate (interruptible_eval.clj:56)
+nrepl.middleware.interruptible-eval/interruptible-eval (interruptible_eval.clj:152)
+nrepl.middleware.session/session-exec (session.clj:202)
+nrepl.middleware.session/session-exec (session.clj:201)
+java.lang.Thread/run (Thread.java:829)
+clj꞉three-atoms-and-refs.collections꞉> 
+; Execution error (ArityException) at three-atoms-and-refs.collections/eval7499 (form-init16638896775070585060.clj:7).
+; Wrong number of args (2) passed to: three-atoms-and-refs.collections/triage
+clj꞉three-atoms-and-refs.collections꞉> 
+; Execution error (ArityException) at three-atoms-and-refs.collections/eval7501 (form-init16638896775070585060.clj:7).
+; Wrong number of args (2) passed to: three-atoms-and-refs.collections/triage
+clj꞉three-atoms-and-refs.collections꞉> 
+#'three-atoms-and-refs.collections/triage
+clj꞉three-atoms-and-refs.collections꞉> 
+(29 28 27 26 25)
+nil
+clj꞉three-atoms-and-refs.collections꞉> 
+(29 28 27 26 25)
+nil
+clj꞉three-atoms-and-refs.collections꞉> 
+(29 28 27 26 25)
+nil
+clj꞉three-atoms-and-refs.collections꞉> 
+(29 28 27 26 25)
+nil
+clj꞉three-atoms-and-refs.collections꞉> 
+(29 28 27 26 25)
+nil
+clj꞉three-atoms-and-refs.collections꞉> 
+(29 28 27 26 25)
+nil
+clj꞉three-atoms-and-refs.collections꞉> 
+(29 28 27 26 25)
+nil
+clj꞉three-atoms-and-refs.collections꞉> 
+(29 28 27 26 25)
+nil
+clj꞉three-atoms-and-refs.collections꞉> 
+(29 28 27 26 25)
+nil
+clj꞉three-atoms-and-refs.collections꞉> 
+(29 28 27 26 25)
+nil
+clj꞉three-atoms-and-refs.collections꞉> 
+(29 28 27 26 25)
+nil
+clj꞉three-atoms-and-refs.collections꞉> 
+(29 28 27 26 25)
+nil
+clj꞉three-atoms-and-refs.collections꞉> 
+(29 28 27 26 25)
+nil
+clj꞉three-atoms-and-refs.collections꞉> 
+(29 28 27 26 25)
+nil
+clj꞉three-atoms-and-refs.collections꞉> 
+(29 28 27 26 25)
+nil
+clj꞉three-atoms-and-refs.collections꞉> 
+(29 28 27 26 25)
+nil
+clj꞉three-atoms-and-refs.collections꞉> 
+(25 26 27 28 29)
+clj꞉three-atoms-and-refs.collections꞉> 
+(25 26 27 28 29)
+clj꞉three-atoms-and-refs.collections꞉> 
+(25 26 27 28 29)
+clj꞉three-atoms-and-refs.collections꞉> 
+(29 28 27 26 25)
+nil
+clj꞉three-atoms-and-refs.collections꞉> 
+(29 28 27 26 25)
+clj꞉three-atoms-and-refs.collections꞉> 
+(29 28 27 26 25)
+clj꞉three-atoms-and-refs.collections꞉> 
+(29 28 27 26 25)
+clj꞉three-atoms-and-refs.collections꞉> 
+(29 28 27 26 25)
+clj꞉three-atoms-and-refs.collections꞉> 
+(29 28 27 26 25)
+clj꞉three-atoms-and-refs.collections꞉> 
+(peek (conj [1 2 3] 1))
+#'three-atoms-and-refs.collections/triage
+clj꞉three-atoms-and-refs.collections꞉> 
+; Execution error (ClassCastException) at three-atoms-and-refs.collections/triage (form-init16638896775070585060.clj:5).
+; class clojure.lang.LazySeq cannot be cast to class clojure.lang.IPersistentStack (clojure.lang.LazySeq and clojure.lang.IPersistentStack are in unnamed module of loader 'app')
+clj꞉three-atoms-and-refs.collections꞉> 
+#'three-atoms-and-refs.collections/triage
+clj꞉three-atoms-and-refs.collections꞉> 
+; Execution error (ClassCastException) at three-atoms-and-refs.collections/triage (form-init16638896775070585060.clj:5).
+; class clojure.lang.PersistentQueue cannot be cast to class clojure.lang.IFn (clojure.lang.PersistentQueue and clojure.lang.IFn are in unnamed module of loader 'app')
+clj꞉three-atoms-and-refs.collections꞉> 
+#'three-atoms-and-refs.collections/triage
+clj꞉three-atoms-and-refs.collections꞉> 
+; Execution error (ClassCastException) at three-atoms-and-refs.collections/triage (form-init16638896775070585060.clj:5).
+; class clojure.lang.PersistentList cannot be cast to class clojure.lang.IFn (clojure.lang.PersistentList and clojure.lang.IFn are in unnamed module of loader 'app')
+clj꞉three-atoms-and-refs.collections꞉> 
+; Syntax error compiling at (src/three_atoms_and_refs/collections.clj:1:7961).
+; Unable to resolve symbol: awaiting in this context
+clj꞉three-atoms-and-refs.collections꞉> 
+#'three-atoms-and-refs.collections/triage
+clj꞉three-atoms-and-refs.collections꞉> 
+#'three-atoms-and-refs.collections/triage
+clj꞉three-atoms-and-refs.collections꞉> 
+; Execution error (ClassCastException) at three-atoms-and-refs.collections/triage (form-init16638896775070585060.clj:5).
+; class clojure.lang.LazySeq cannot be cast to class clojure.lang.IPersistentStack (clojure.lang.LazySeq and clojure.lang.IPersistentStack are in unnamed module of loader 'app')
+clj꞉three-atoms-and-refs.collections꞉> 
+(concat clojure.lang.PersistentQueue/EMPTY [2 3])
+(2 3)
+clj꞉three-atoms-and-refs.collections꞉> 
+(class (concat clojure.lang.PersistentQueue/EMPTY [2 3])
+       )
+clojure.lang.LazySeq
+clj꞉three-atoms-and-refs.collections꞉> 
+(concat clojure.lang.PersistentQueue/EMPTY range(25 30))
+; Execution error (ClassCastException) at three-atoms-and-refs.collections/eval7571 (form-init16638896775070585060.clj:211).
+; class java.lang.Long cannot be cast to class clojure.lang.IFn (java.lang.Long is in module java.base of loader 'bootstrap'; clojure.lang.IFn is in unnamed module of loader 'app')
+clj꞉three-atoms-and-refs.collections꞉> 
+(concat clojure.lang.PersistentQueue/EMPTY (range 25 30
+                                                  ))
+30
+clj꞉three-atoms-and-refs.collections꞉> 
+(concat clojure.lang.PersistentQueue/EMPTY (range 25 30))
+(25 26 27 28 29)
+clj꞉three-atoms-and-refs.collections꞉> 
+(concat clojure.lang.PersistentQueue/EMPTY (reverse (range 25 30)))
+(29 28 27 26 25)
+clj꞉three-atoms-and-refs.collections꞉> 
+(--> (reverse (range 25 30))
+     (concat clojure.lang.PersistentQueue/EMPTY))
+; Syntax error compiling at (.calva/output-window/output.calva-repl:225:1).
+; Unable to resolve symbol: --> in this context
+clj꞉three-atoms-and-refs.collections꞉> 
+(->> (reverse (range 25 30))
+(concat clojure.lang.PersistentQueue/EMPTY)
+     )
+()
+clj꞉three-atoms-and-refs.collections꞉> 
+(println (seq (->> (reverse (range 25 30))
+                   (concat clojure.lang.PersistentQueue/EMPTY))))
+(29 28 27 26 25)
+nil
+clj꞉three-atoms-and-refs.collections꞉> 
+(->> (reverse (range 25 30))
+     (concat clojure.lang.PersistentQueue/EMPTY)
+     seq
+     println)
+#function[clojure.core/println]
+clj꞉three-atoms-and-refs.collections꞉> 
+(->> (reverse (range 25 30))
+     (concat clojure.lang.PersistentQueue/EMPTY)
+     seq
+     println)
+(29 28 27 26 25)
+nil
+clj꞉three-atoms-and-refs.collections꞉> 
+(->> (reverse (range 25 30))
+     (concat clojure.lang.PersistentQueue/EMPTY))
+; Execution error (ClassCastException) at three-atoms-and-refs.collections/eval7584 (form-init16638896775070585060.clj:253).
+; class clojure.lang.LazySeq cannot be cast to class clojure.lang.IPersistentStack (clojure.lang.LazySeq and clojure.lang.IPersistentStack are in unnamed module of loader 'app')
+clj꞉three-atoms-and-refs.collections꞉> 
+; Execution error (ClassCastException) at three-atoms-and-refs.collections/eval7586 (form-init16638896775070585060.clj:253).
+; class clojure.lang.LazySeq cannot be cast to class clojure.lang.IPersistentStack (clojure.lang.LazySeq and clojure.lang.IPersistentStack are in unnamed module of loader 'app')
+clj꞉three-atoms-and-refs.collections꞉> 
+(29 28 27 26 25)
+clj꞉three-atoms-and-refs.collections꞉> 
+(peek (seq 
+       (->> (reverse (range 25 30))
+           (concat clojure.lang.PersistentQueue/EMPTY))))
+; Execution error (ClassCastException) at three-atoms-and-refs.collections/eval7590 (form-init16638896775070585060.clj:263).
+; class clojure.lang.LazySeq cannot be cast to class clojure.lang.IPersistentStack (clojure.lang.LazySeq and clojure.lang.IPersistentStack are in unnamed module of loader 'app')
+clj꞉three-atoms-and-refs.collections꞉> 
+29
+clj꞉three-atoms-and-refs.collections꞉> 
+#'three-atoms-and-refs.collections/triage
+clj꞉three-atoms-and-refs.collections꞉> 
+; Execution error (IllegalArgumentException) at three-atoms-and-refs.collections/eval7595 (form-init16638896775070585060.clj:10).
+; Don't know how to create ISeq from: java.lang.Long
+clj꞉three-atoms-and-refs.collections꞉> 
+29
+nil
+clj꞉three-atoms-and-refs.collections꞉> 
+#'three-atoms-and-refs.collections/triage
+clj꞉three-atoms-and-refs.collections꞉> 
+29
+nil
+clj꞉three-atoms-and-refs.collections꞉> 
+29
+nil
+clj꞉three-atoms-and-refs.collections꞉> 
+29
+nil
+clj꞉three-atoms-and-refs.collections꞉> 
+nil
+clj꞉three-atoms-and-refs.collections꞉> 
+; Syntax error macroexpanding clojure.core/ns at (src/three_atoms_and_refs/collections.clj:1:1).
+; ((:refer [clojure pprint])) - failed: Extra input spec: :clojure.core.specs.alpha/ns-form
+clj꞉three-atoms-and-refs.collections꞉> 
+nil
+clj꞉three-atoms-and-refs.collections꞉> 
+nil
+clj꞉three-atoms-and-refs.collections꞉> 
+nil
+clj꞉three-atoms-and-refs.collections꞉> 
+#'three-atoms-and-refs.collections/triage
+clj꞉three-atoms-and-refs.collections꞉> 
+#'three-atoms-and-refs.collections/this-week-queue
+clj꞉three-atoms-and-refs.collections꞉> 
+(29 28 27 26 25)
+nil
+clj꞉three-atoms-and-refs.collections꞉> 
+(29 28 27 26 25)
+nil
+clj꞉three-atoms-and-refs.collections꞉> 
+#'three-atoms-and-refs.collections/triage
+clj꞉three-atoms-and-refs.collections꞉> 
+#'three-atoms-and-refs.collections/this-week-queue
+clj꞉three-atoms-and-refs.collections꞉> 
+(29 28 27 26 25)
+nil
+clj꞉three-atoms-and-refs.collections꞉> 
+(pop 3 [1 2 3 4 5])
+; Execution error (ArityException) at three-atoms-and-refs.collections/eval7654 (form-init16638896775070585060.clj:318).
+; Wrong number of args (2) passed to: clojure.core/pop
+clj꞉three-atoms-and-refs.collections꞉> 
+(take 0 clojure.lang.PersistentQueue/EMPTY
+      )
+<-()-<
+clj꞉three-atoms-and-refs.collections꞉> 
+; Execution error (ArityException) at three-atoms-and-refs.collections/eval7656 (form-init16638896775070585060.clj:10).
+; Wrong number of args (3) passed to: three-atoms-and-refs.collections/triage
+clj꞉three-atoms-and-refs.collections꞉> 
+#'three-atoms-and-refs.collections/triage
+clj꞉three-atoms-and-refs.collections꞉> 
+; Execution error (ClassCastException) at three-atoms-and-refs.collections/eval7659 (form-init16638896775070585060.clj:10).
+; class clojure.lang.LazySeq cannot be cast to class clojure.lang.IPersistentStack (clojure.lang.LazySeq and clojure.lang.IPersistentStack are in unnamed module of loader 'app')
+clj꞉three-atoms-and-refs.collections꞉> 
+nil
+clj꞉three-atoms-and-refs.collections꞉> 
+#'three-atoms-and-refs.collections/triage
+clj꞉three-atoms-and-refs.collections꞉> 
+; Execution error (ClassCastException) at three-atoms-and-refs.collections/eval7672 (form-init16638896775070585060.clj:10).
+; class clojure.lang.LazySeq cannot be cast to class clojure.lang.IPersistentStack (clojure.lang.LazySeq and clojure.lang.IPersistentStack are in unnamed module of loader 'app')
+clj꞉three-atoms-and-refs.collections꞉> 
+#'three-atoms-and-refs.collections/triage
+clj꞉three-atoms-and-refs.collections꞉> 
+; Execution error (ClassCastException) at three-atoms-and-refs.collections/eval7675 (form-init16638896775070585060.clj:11).
+; class clojure.lang.Cons cannot be cast to class clojure.lang.IPersistentStack (clojure.lang.Cons and clojure.lang.IPersistentStack are in unnamed module of loader 'app')
+clj꞉three-atoms-and-refs.collections꞉> 
+#'three-atoms-and-refs.collections/triage
+clj꞉three-atoms-and-refs.collections꞉> 
+; Execution error (ArityException) at three-atoms-and-refs.collections/eval7678 (form-init16638896775070585060.clj:9).
+; Wrong number of args (2) passed to: three-atoms-and-refs.collections/triage
+clj꞉three-atoms-and-refs.collections꞉> 
+#'three-atoms-and-refs.collections/triage
+clj꞉three-atoms-and-refs.collections꞉> 
+; Execution error (ClassCastException) at three-atoms-and-refs.collections/eval7681 (form-init16638896775070585060.clj:9).
+; class clojure.lang.LazySeq cannot be cast to class clojure.lang.IPersistentStack (clojure.lang.LazySeq and clojure.lang.IPersistentStack are in unnamed module of loader 'app')
+clj꞉three-atoms-and-refs.collections꞉> 
+(29 28 27 26 25)
+nil
+clj꞉three-atoms-and-refs.collections꞉> 
+(29 28 27 26 25)
+nil
+clj꞉three-atoms-and-refs.collections꞉> 
+#'three-atoms-and-refs.collections/triage
+clj꞉three-atoms-and-refs.collections꞉> 
+(29 28 27 26 25)
+nil
+clj꞉three-atoms-and-refs.collections꞉> 
+(pprint (concat clojure.lang.PersistentQueue/EMPTY [3 4 5
+                                                    ]))
+(3 4 5)
+nil
+clj꞉three-atoms-and-refs.collections꞉> 
+(pprint clojure.lang.PersistentQueue/EMPTY)
+<-()-<
+nil
+clj꞉three-atoms-and-refs.collections꞉> 
+#'three-atoms-and-refs.collections/triage
+clj꞉three-atoms-and-refs.collections꞉> 
+; Execution error (ClassCastException) at three-atoms-and-refs.collections/triage (form-init16638896775070585060.clj:7).
+; class clojure.lang.PersistentQueue cannot be cast to class clojure.lang.ITransientCollection (clojure.lang.PersistentQueue and clojure.lang.ITransientCollection are in unnamed module of loader 'app')
+clj꞉three-atoms-and-refs.collections꞉> 
+#'three-atoms-and-refs.collections/triage
+clj꞉three-atoms-and-refs.collections꞉> 
+(29 28 27 26 25)
+nil
+clj꞉three-atoms-and-refs.collections꞉> 
+(29 28 27 26 25)
+nil
+clj꞉three-atoms-and-refs.collections꞉> 
+#'three-atoms-and-refs.collections/triage
+clj꞉three-atoms-and-refs.collections꞉> 
+; Execution error (ClassCastException) at three-atoms-and-refs.collections/eval7703 (form-init16638896775070585060.clj:11).
+; class java.lang.Class cannot be cast to class clojure.lang.IFn (java.lang.Class is in module java.base of loader 'bootstrap'; clojure.lang.IFn is in unnamed module of loader 'app')
+clj꞉three-atoms-and-refs.collections꞉> 
+#'three-atoms-and-refs.collections/triage
+clj꞉three-atoms-and-refs.collections꞉> 
+(<-(29)-< <-(28)-< <-(27)-< <-(26)-< <-(25)-<)
+nil
+clj꞉three-atoms-and-refs.collections꞉> 
+#'three-atoms-and-refs.collections/triage
+clj꞉three-atoms-and-refs.collections꞉> 
+()
+nil
+clj꞉three-atoms-and-refs.collections꞉> 
+()
+nil
+clj꞉three-atoms-and-refs.collections꞉> 
+#'three-atoms-and-refs.collections/triage
+clj꞉three-atoms-and-refs.collections꞉> 
+; Execution error (ClassCastException) at three-atoms-and-refs.collections/eval7738 (form-init16638896775070585060.clj:10).
+; class clojure.lang.PersistentQueue cannot be cast to class clojure.lang.IFn (clojure.lang.PersistentQueue and clojure.lang.IFn are in unnamed module of loader 'app')
+clj꞉three-atoms-and-refs.collections꞉> 
+#'three-atoms-and-refs.collections/triage
+clj꞉three-atoms-and-refs.collections꞉> 
+(<-(29)-< <-(28)-< <-(27)-< <-(26)-< <-(25)-<)
+nil
+clj꞉three-atoms-and-refs.collections꞉> 
+#'three-atoms-and-refs.collections/triage
+clj꞉three-atoms-and-refs.collections꞉> 
+(<-(29)-< <-(28)-< <-(27)-< <-(26)-< <-(25)-<)
+nil
+clj꞉three-atoms-and-refs.collections꞉> 
+(<-(29)-< <-(28)-< <-(27)-< <-(26)-< <-(25)-<)
+nil
+clj꞉three-atoms-and-refs.collections꞉> 
+#'three-atoms-and-refs.collections/triage
+clj꞉three-atoms-and-refs.collections꞉> 
+(<-(29)-< <-(28)-< <-(27)-< <-(26)-< <-(25)-<)
+nil
+clj꞉three-atoms-and-refs.collections꞉> 
+#'three-atoms-and-refs.collections/triage
+clj꞉three-atoms-and-refs.collections꞉> 
+<-((29 28 27 26 25))-<
+nil
+clj꞉three-atoms-and-refs.collections꞉> 
+; Syntax error macroexpanding clojure.core/defn at (src/three_atoms_and_refs/collections.clj:9:1).
+; triage - failed: vector? at: [:fn-tail :arity-n :bodies :params] spec: :clojure.core.specs.alpha/param-list
+(triage clojure.lang.PersistentQueue/EMPTY (reverse (range 25 30))) - failed: vector? at: [:fn-tail :arity-1 :params] spec: :clojure.core.specs.alpha/param-list
+clj꞉three-atoms-and-refs.collections꞉> 
+#'three-atoms-and-refs.collections/vaccine-queue
+clj꞉three-atoms-and-refs.collections꞉> 
+#'three-atoms-and-refs.collections/vaccine-queue
+clj꞉three-atoms-and-refs.collections꞉> 
+(29 28 27 26 25)
+nil
+clj꞉three-atoms-and-refs.collections꞉> 
+(29 28 27 26 25)
+nil
+clj꞉three-atoms-and-refs.collections꞉> 
+(29 28 27 26 25)
+nil
+clj꞉three-atoms-and-refs.collections꞉> 
+(29 28 27 26 25)
+nil
+clj꞉three-atoms-and-refs.collections꞉> 
+(29 28 27 26 25)
+nil
+clj꞉three-atoms-and-refs.collections꞉> 
+(29 28 27 26 25)
+nil
+clj꞉three-atoms-and-refs.collections꞉> 
+(29 28 27 26 25)
+nil
+clj꞉three-atoms-and-refs.collections꞉> 
+#'three-atoms-and-refs.collections/vaccine-queue
+clj꞉three-atoms-and-refs.collections꞉> 
+#'three-atoms-and-refs.collections/vaccine-queue
+clj꞉three-atoms-and-refs.collections꞉> 
+#'three-atoms-and-refs.collections/vaccine-queue
+clj꞉three-atoms-and-refs.collections꞉> 
+(conj (conj clojure.lang.PersistentQueue/EMPTY 2) 3)
+<-(2 3)-<
+clj꞉three-atoms-and-refs.collections꞉> 
+(peek (conj (conj clojure.lang.PersistentQueue/EMPTY 2) 3))
+2
+clj꞉three-atoms-and-refs.collections꞉> 
+#'three-atoms-and-refs.collections/triage
+clj꞉three-atoms-and-refs.collections꞉> 
+#'three-atoms-and-refs.collections/triage
+clj꞉three-atoms-and-refs.collections꞉> 
+; Execution error (ClassCastException) at three-atoms-and-refs.collections/triage (form-init16638896775070585060.clj:7).
+; class java.lang.Long cannot be cast to class clojure.lang.IPersistentCollection (java.lang.Long is in module java.base of loader 'bootstrap'; clojure.lang.IPersistentCollection is in unnamed module of loader 'app')
+clj꞉three-atoms-and-refs.collections꞉> 
+#'three-atoms-and-refs.collections/triage
+clj꞉three-atoms-and-refs.collections꞉> 
+#'three-atoms-and-refs.collections/vaccine-queue
+clj꞉three-atoms-and-refs.collections꞉> 
+29
+nil
+clj꞉three-atoms-and-refs.collections꞉> 
+; Execution error (ClassCastException) at clojure.pprint.proxy$java.io.Writer$IDeref$e595a7c1/write (REPL:-1).
+; class clojure.lang.PersistentQueue cannot be cast to class java.io.Writer (clojure.lang.PersistentQueue is in unnamed module of loader 'app'; java.io.Writer is in module java.base of loader 'bootstrap')
+clj꞉three-atoms-and-refs.collections꞉> 
+<-(29 28 27 26 25 nil)-<
+nil
+clj꞉three-atoms-and-refs.collections꞉> 
+#'three-atoms-and-refs.collections/triage
+clj꞉three-atoms-and-refs.collections꞉> 
+#'three-atoms-and-refs.collections/vaccine-queue
+clj꞉three-atoms-and-refs.collections꞉> 
+<-(29 28 27 26 25)-<
+nil
+clj꞉three-atoms-and-refs.collections꞉> 
+<-(29 28 27 26 25)-<
+nil
+clj꞉three-atoms-and-refs.collections꞉> 
+#'three-atoms-and-refs.collections/vaccine-queue
+clj꞉three-atoms-and-refs.collections꞉> 
+<-()-<
+nil
+clj꞉three-atoms-and-refs.collections꞉> 
+#'three-atoms-and-refs.collections/vaccine-queue
+clj꞉three-atoms-and-refs.collections꞉> 
+<-(29 28 27 26 25)-<
+nil
+clj꞉three-atoms-and-refs.collections꞉> 
+29
+nil
+clj꞉three-atoms-and-refs.collections꞉> 
+; Syntax error macroexpanding clojure.core/ns at (src/three_atoms_and_refs/core.clj:1:1).
+; :as - failed: simple-symbol? at: [:ns-clauses :require :body :libspec :lib] spec: :clojure.core.specs.alpha/libspec
+:as - failed: (or (nil? %) (sequential? %)) at: [:ns-clauses :require :body :libspec :lib+opts] spec: :clojure.core.specs.alpha/libspec
+:as - failed: (or (nil? %) (sequential? %)) at: [:ns-clauses :require :body :prefix-list] spec: :clojure.core.specs.alpha/prefix-list
+:as - failed: #{:verbose :reload :reload-all} at: [:ns-clauses :require :body :flag] spec: :clojure.core.specs.alpha/ns-require
+:require - failed: #{:refer-clojure} at: [:ns-clauses :refer-clojure :clause] spec: :clojure.core.specs.alpha/ns-refer-clojure
+:require - failed: #{:import} at: [:ns-clauses :import :clause] spec: :clojure.core.specs.alpha/ns-import
+:require - failed: #{:use} at: [:ns-clauses :use :clause] spec: :clojure.core.specs.alpha/ns-use
+:require - failed: #{:refer} at: [:ns-clauses :refer :clause] spec: :clojure.core.specs.alph
+; a/ns-refer
+; :require - failed: #{:load} at: [:ns-clauses :load :clause] spec: :clojure.core.specs.alpha/ns-load
+:require - failed: #{:gen-class} at: [:ns-clauses :gen-class :clause] spec: :clojure.core.specs.alpha/ns-gen-class
+clj꞉three-atoms-and-refs.core꞉> 
+; Syntax error macroexpanding clojure.core/ns at (src/three_atoms_and_refs/core.clj:1:1).
+; :as - failed: simple-symbol? at: [:ns-clauses :require :body :libspec :lib] spec: :clojure.core.specs.alpha/libspec
+:as - failed: (or (nil? %) (sequential? %)) at: [:ns-clauses :require :body :libspec :lib+opts] spec: :clojure.core.specs.alpha/libspec
+:as - failed: (or (nil? %) (sequential? %)) at: [:ns-clauses :require :body :prefix-list] spec: :clojure.core.specs.alpha/prefix-list
+:as - failed: #{:verbose :reload :reload-all} at: [:ns-clauses :require :body :flag] spec: :clojure.core.specs.alpha/ns-require
+:require - failed: #{:refer-clojure} at: [:ns-clauses :refer-clojure :clause] spec: :clojure.core.specs.alpha/ns-refer-clojure
+:require - failed: #{:import} at: [:ns-clauses :import :clause] spec: :clojure.core.specs.alpha/ns-import
+:require - failed: #{:use} at: [:ns-clauses :use :clause] spec: :clojure.core.specs.alpha/ns-use
+:require - failed: #{:refer} at: [:ns-clauses :refer :clause] spec: :clojure.core.specs.alph
+; a/ns-refer
+; :require - failed: #{:load} at: [:ns-clauses :load :clause] spec: :clojure.core.specs.alpha/ns-load
+:require - failed: #{:gen-class} at: [:ns-clauses :gen-class :clause] spec: :clojure.core.specs.alpha/ns-gen-class
+clj꞉three-atoms-and-refs.core꞉> 
+; Syntax error macroexpanding clojure.core/ns at (src/three_atoms_and_refs/core.clj:1:1).
+; :as - failed: simple-symbol? at: [:ns-clauses :require :body :libspec :lib] spec: :clojure.core.specs.alpha/libspec
+:as - failed: (or (nil? %) (sequential? %)) at: [:ns-clauses :require :body :libspec :lib+opts] spec: :clojure.core.specs.alpha/libspec
+:as - failed: (or (nil? %) (sequential? %)) at: [:ns-clauses :require :body :prefix-list] spec: :clojure.core.specs.alpha/prefix-list
+:as - failed: #{:verbose :reload :reload-all} at: [:ns-clauses :require :body :flag] spec: :clojure.core.specs.alpha/ns-require
+:require - failed: #{:refer-clojure} at: [:ns-clauses :refer-clojure :clause] spec: :clojure.core.specs.alpha/ns-refer-clojure
+:require - failed: #{:import} at: [:ns-clauses :import :clause] spec: :clojure.core.specs.alpha/ns-import
+:require - failed: #{:use} at: [:ns-clauses :use :clause] spec: :clojure.core.specs.alpha/ns-use
+:require - failed: #{:refer} at: [:ns-clauses :refer :clause] spec: :clojure.core.specs.alph
+; a/ns-refer
+; :require - failed: #{:load} at: [:ns-clauses :load :clause] spec: :clojure.core.specs.alpha/ns-load
+:require - failed: #{:gen-class} at: [:ns-clauses :gen-class :clause] spec: :clojure.core.specs.alpha/ns-gen-class
+clj꞉three-atoms-and-refs.core꞉> 
+; Syntax error macroexpanding clojure.core/ns at (src/three_atoms_and_refs/core.clj:1:1).
+; :as - failed: simple-symbol? at: [:ns-clauses :require :body :libspec :lib] spec: :clojure.core.specs.alpha/libspec
+:as - failed: (or (nil? %) (sequential? %)) at: [:ns-clauses :require :body :libspec :lib+opts] spec: :clojure.core.specs.alpha/libspec
+:as - failed: (or (nil? %) (sequential? %)) at: [:ns-clauses :require :body :prefix-list] spec: :clojure.core.specs.alpha/prefix-list
+:as - failed: #{:verbose :reload :reload-all} at: [:ns-clauses :require :body :flag] spec: :clojure.core.specs.alpha/ns-require
+:require - failed: #{:refer-clojure} at: [:ns-clauses :refer-clojure :clause] spec: :clojure.core.specs.alpha/ns-refer-clojure
+:require - failed: #{:import} at: [:ns-clauses :import :clause] spec: :clojure.core.specs.alpha/ns-import
+:require - failed: #{:use} at: [:ns-clauses :use :clause] spec: :clojure.core.specs.alpha/ns-use
+:require - failed: #{:refer} at: [:ns-clauses :refer :clause] spec: :clojure.core.specs.alph
+; a/ns-refer
+; :require - failed: #{:load} at: [:ns-clauses :load :clause] spec: :clojure.core.specs.alpha/ns-load
+:require - failed: #{:gen-class} at: [:ns-clauses :gen-class :clause] spec: :clojure.core.specs.alpha/ns-gen-class
+clj꞉three-atoms-and-refs.core꞉> 
+; Syntax error macroexpanding clojure.core/ns at (src/three_atoms_and_refs/core.clj:1:1).
+; :as - failed: simple-symbol? at: [:ns-clauses :require :body :libspec :lib] spec: :clojure.core.specs.alpha/libspec
+:as - failed: (or (nil? %) (sequential? %)) at: [:ns-clauses :require :body :libspec :lib+opts] spec: :clojure.core.specs.alpha/libspec
+:as - failed: (or (nil? %) (sequential? %)) at: [:ns-clauses :require :body :prefix-list] spec: :clojure.core.specs.alpha/prefix-list
+:as - failed: #{:verbose :reload :reload-all} at: [:ns-clauses :require :body :flag] spec: :clojure.core.specs.alpha/ns-require
+:require - failed: #{:refer-clojure} at: [:ns-clauses :refer-clojure :clause] spec: :clojure.core.specs.alpha/ns-refer-clojure
+:require - failed: #{:import} at: [:ns-clauses :import :clause] spec: :clojure.core.specs.alpha/ns-import
+:require - failed: #{:use} at: [:ns-clauses :use :clause] spec: :clojure.core.specs.alpha/ns-use
+:require - failed: #{:refer} at: [:ns-clauses :refer :clause] spec: :clojure.core.specs.alph
+; a/ns-refer
+; :require - failed: #{:load} at: [:ns-clauses :load :clause] spec: :clojure.core.specs.alpha/ns-load
+:require - failed: #{:gen-class} at: [:ns-clauses :gen-class :clause] spec: :clojure.core.specs.alpha/ns-gen-class
+clj꞉three-atoms-and-refs.core꞉> 
+; Syntax error macroexpanding clojure.core/ns at (src/three_atoms_and_refs/core.clj:1:1).
+; :as - failed: simple-symbol? at: [:ns-clauses :require :body :libspec :lib] spec: :clojure.core.specs.alpha/libspec
+:as - failed: (or (nil? %) (sequential? %)) at: [:ns-clauses :require :body :libspec :lib+opts] spec: :clojure.core.specs.alpha/libspec
+:as - failed: (or (nil? %) (sequential? %)) at: [:ns-clauses :require :body :prefix-list] spec: :clojure.core.specs.alpha/prefix-list
+:as - failed: #{:verbose :reload :reload-all} at: [:ns-clauses :require :body :flag] spec: :clojure.core.specs.alpha/ns-require
+:require - failed: #{:refer-clojure} at: [:ns-clauses :refer-clojure :clause] spec: :clojure.core.specs.alpha/ns-refer-clojure
+:require - failed: #{:import} at: [:ns-clauses :import :clause] spec: :clojure.core.specs.alpha/ns-import
+:require - failed: #{:use} at: [:ns-clauses :use :clause] spec: :clojure.core.specs.alpha/ns-use
+:require - failed: #{:refer} at: [:ns-clauses :refer :clause] spec: :clojure.core.specs.alph
+; a/ns-refer
+; :require - failed: #{:load} at: [:ns-clauses :load :clause] spec: :clojure.core.specs.alpha/ns-load
+:require - failed: #{:gen-class} at: [:ns-clauses :gen-class :clause] spec: :clojure.core.specs.alpha/ns-gen-class
+clj꞉three-atoms-and-refs.core꞉> 
+; Syntax error macroexpanding clojure.core/ns at (src/three_atoms_and_refs/core.clj:1:1).
+; :as - failed: simple-symbol? at: [:ns-clauses :require :body :libspec :lib] spec: :clojure.core.specs.alpha/libspec
+:as - failed: (or (nil? %) (sequential? %)) at: [:ns-clauses :require :body :libspec :lib+opts] spec: :clojure.core.specs.alpha/libspec
+:as - failed: (or (nil? %) (sequential? %)) at: [:ns-clauses :require :body :prefix-list] spec: :clojure.core.specs.alpha/prefix-list
+:as - failed: #{:verbose :reload :reload-all} at: [:ns-clauses :require :body :flag] spec: :clojure.core.specs.alpha/ns-require
+:require - failed: #{:refer-clojure} at: [:ns-clauses :refer-clojure :clause] spec: :clojure.core.specs.alpha/ns-refer-clojure
+:require - failed: #{:import} at: [:ns-clauses :import :clause] spec: :clojure.core.specs.alpha/ns-import
+:require - failed: #{:use} at: [:ns-clauses :use :clause] spec: :clojure.core.specs.alpha/ns-use
+:require - failed: #{:refer} at: [:ns-clauses :refer :clause] spec: :clojure.core.specs.alph
+; a/ns-refer
+; :require - failed: #{:load} at: [:ns-clauses :load :clause] spec: :clojure.core.specs.alpha/ns-load
+:require - failed: #{:gen-class} at: [:ns-clauses :gen-class :clause] spec: :clojure.core.specs.alpha/ns-gen-class
+clj꞉three-atoms-and-refs.core꞉> 
+; Syntax error macroexpanding clojure.core/ns at (src/three_atoms_and_refs/core.clj:1:1).
+; :as - failed: simple-symbol? at: [:ns-clauses :require :body :libspec :lib] spec: :clojure.core.specs.alpha/libspec
+:as - failed: (or (nil? %) (sequential? %)) at: [:ns-clauses :require :body :libspec :lib+opts] spec: :clojure.core.specs.alpha/libspec
+:as - failed: (or (nil? %) (sequential? %)) at: [:ns-clauses :require :body :prefix-list] spec: :clojure.core.specs.alpha/prefix-list
+:as - failed: #{:verbose :reload :reload-all} at: [:ns-clauses :require :body :flag] spec: :clojure.core.specs.alpha/ns-require
+:require - failed: #{:refer-clojure} at: [:ns-clauses :refer-clojure :clause] spec: :clojure.core.specs.alpha/ns-refer-clojure
+:require - failed: #{:import} at: [:ns-clauses :import :clause] spec: :clojure.core.specs.alpha/ns-import
+:require - failed: #{:use} at: [:ns-clauses :use :clause] spec: :clojure.core.specs.alpha/ns-use
+:require - failed: #{:refer} at: [:ns-clauses :refer :clause] spec: :clojure.core.specs.alph
+; a/ns-refer
+; :require - failed: #{:load} at: [:ns-clauses :load :clause] spec: :clojure.core.specs.alpha/ns-load
+:require - failed: #{:gen-class} at: [:ns-clauses :gen-class :clause] spec: :clojure.core.specs.alpha/ns-gen-class
+clj꞉three-atoms-and-refs.core꞉> 
+nil
+clj꞉three-atoms-and-refs.collections꞉> 
+29
+nil
+clj꞉three-atoms-and-refs.collections꞉> 
+#'three-atoms-and-refs.collections/vaccine-queue
+clj꞉three-atoms-and-refs.collections꞉> 
+<-(29 28 27 26 25)-<
+nil
+clj꞉three-atoms-and-refs.collections꞉> 
+29
+nil
+clj꞉three-atoms-and-refs.collections꞉> 
+nil
+clj꞉three-atoms-and-refs.model꞉> 
+#'three-atoms-and-refs.model/new-vaccination-workforce
+clj꞉three-atoms-and-refs.model꞉> 
+; Syntax error macroexpanding clojure.core/ns at (src/three_atoms_and_refs/core.clj:1:1).
+; :as - failed: simple-symbol? at: [:ns-clauses :require :body :libspec :lib] spec: :clojure.core.specs.alpha/libspec
+:as - failed: (or (nil? %) (sequential? %)) at: [:ns-clauses :require :body :libspec :lib+opts] spec: :clojure.core.specs.alpha/libspec
+:as - failed: (or (nil? %) (sequential? %)) at: [:ns-clauses :require :body :prefix-list] spec: :clojure.core.specs.alpha/prefix-list
+:as - failed: #{:verbose :reload :reload-all} at: [:ns-clauses :require :body :flag] spec: :clojure.core.specs.alpha/ns-require
+:require - failed: #{:refer-clojure} at: [:ns-clauses :refer-clojure :clause] spec: :clojure.core.specs.alpha/ns-refer-clojure
+:require - failed: #{:import} at: [:ns-clauses :import :clause] spec: :clojure.core.specs.alpha/ns-import
+:require - failed: #{:use} at: [:ns-clauses :use :clause] spec: :clojure.core.specs.alpha/ns-use
+:require - failed: #{:refer} at: [:ns-clauses :refer :clause] spec: :clojure.core.specs.alph
+; a/ns-refer
+; :require - failed: #{:load} at: [:ns-clauses :load :clause] spec: :clojure.core.specs.alpha/ns-load
+:require - failed: #{:gen-class} at: [:ns-clauses :gen-class :clause] spec: :clojure.core.specs.alpha/ns-gen-class
+clj꞉three-atoms-and-refs.core꞉> 
+; Syntax error macroexpanding clojure.core/ns at (src/three_atoms_and_refs/core.clj:1:1).
+; ((:require three-atoms-and-refs.model :as v.model)) - failed: Extra input spec: :clojure.core.specs.alpha/ns-form
+clj꞉three-atoms-and-refs.core꞉> 
+; Syntax error macroexpanding clojure.core/ns at (src/three_atoms_and_refs/core.clj:1:1).
+; ((:require three-atoms-and-refs.model :as v.model)) - failed: Extra input spec: :clojure.core.specs.alpha/ns-form
+clj꞉three-atoms-and-refs.core꞉> 
+; Syntax error macroexpanding clojure.core/ns at (src/three_atoms_and_refs/core.clj:1:1).
+; :as - failed: simple-symbol? at: [:ns-clauses :require :body :libspec :lib] spec: :clojure.core.specs.alpha/libspec
+:as - failed: (or (nil? %) (sequential? %)) at: [:ns-clauses :require :body :libspec :lib+opts] spec: :clojure.core.specs.alpha/libspec
+:as - failed: (or (nil? %) (sequential? %)) at: [:ns-clauses :require :body :prefix-list] spec: :clojure.core.specs.alpha/prefix-list
+:as - failed: #{:verbose :reload :reload-all} at: [:ns-clauses :require :body :flag] spec: :clojure.core.specs.alpha/ns-require
+:require - failed: #{:refer-clojure} at: [:ns-clauses :refer-clojure :clause] spec: :clojure.core.specs.alpha/ns-refer-clojure
+:require - failed: #{:import} at: [:ns-clauses :import :clause] spec: :clojure.core.specs.alpha/ns-import
+:require - failed: #{:use} at: [:ns-clauses :use :clause] spec: :clojure.core.specs.alpha/ns-use
+:require - failed: #{:refer} at: [:ns-clauses :refer :clause] spec: :clojure.core.specs.alph
+; a/ns-refer
+; :require - failed: #{:load} at: [:ns-clauses :load :clause] spec: :clojure.core.specs.alpha/ns-load
+:require - failed: #{:gen-class} at: [:ns-clauses :gen-class :clause] spec: :clojure.core.specs.alpha/ns-gen-class
+clj꞉three-atoms-and-refs.core꞉> 
+nil
+clj꞉three-atoms-and-refs.core꞉> 
+{:documentation <-()-<,
+ :triage <-()-<,
+ :vaccination <-()-<,
+ :exit <-()-<}
+nil
+clj꞉three-atoms-and-refs.core꞉> 
+; Syntax error compiling at (src/three_atoms_and_refs/three-atoms-and-refs.model:5:1).
+; Unable to resolve symbol: empty-queue in this context
+clj꞉three-atoms-and-refs.model꞉> 
+nil
+clj꞉three-atoms-and-refs.model꞉> 
+#'three-atoms-and-refs.model/empty-queue
+clj꞉three-atoms-and-refs.model꞉> 
+#'three-atoms-and-refs.model/new-vaccination-workforce
+clj꞉three-atoms-and-refs.model꞉> 
+nil
+clj꞉three-atoms-and-refs.core꞉> 
+{:documentation <-()-<,
+ :triage <-()-<,
+ :vaccination <-()-<,
+ :exit <-()-<}
+; Execution error (ClassCastException) at three-atoms-and-refs.core/eval7926 (form-init16638896775070585060.clj:8).
+; class clojure.lang.PersistentQueue cannot be cast to class clojure.lang.IFn (clojure.lang.PersistentQueue and clojure.lang.IFn are in unnamed module of loader 'app')
+clj꞉three-atoms-and-refs.core꞉> 
+{:documentation <-()-<,
+ :triage <-()-<,
+ :vaccination <-()-<,
+ :exit <-()-<}
+; Execution error (ClassCastException) at three-atoms-and-refs.core/eval7928 (form-init16638896775070585060.clj:8).
+; class clojure.lang.PersistentQueue cannot be cast to class clojure.lang.IFn (clojure.lang.PersistentQueue and clojure.lang.IFn are in unnamed module of loader 'app')
+clj꞉three-atoms-and-refs.core꞉> 
+{:documentation <-()-<,
+ :triage <-()-<,
+ :vaccination <-()-<,
+ :exit <-()-<}
+#object[clojure.lang.PersistentQueue 0x2e891e3b clojure.lang.PersistentQueue@1]
+nil
+clj꞉three-atoms-and-refs.core꞉> 
+{:documentation <-()-<,
+ :triage <-()-<,
+ :vaccination <-()-<,
+ :exit <-()-<}
+#object[clojure.lang.PersistentQueue 0x2e891e3b clojure.lang.PersistentQueue@1]
+nil
+clj꞉three-atoms-and-refs.core꞉> 
+nil
+clj꞉three-atoms-and-refs.logic꞉> 
+#'three-atoms-and-refs.logic/push-to
+clj꞉three-atoms-and-refs.logic꞉> 
+#'three-atoms-and-refs.logic/vaccine-queue
+clj꞉three-atoms-and-refs.logic꞉> 
+29
+nil
+clj꞉three-atoms-and-refs.logic꞉> 
+<-(29 28 27 26 25)-<
+nil
+clj꞉three-atoms-and-refs.logic꞉> 
+; nREPL Connection was closed
