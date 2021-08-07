@@ -3,6 +3,21 @@
             [io.pedestal.http.route :as route]
             [io.pedestal.test :as test]))
 
+(defonce database (atom {}))
+
+(def db-interceptor
+  {:name :database-interceptor
+   :enter
+   (fn [context]
+     (update context :request assoc :database @database))
+   :leave
+   (fn [context]
+     (if-let [[op & args] (:tx-data context)]
+       (do
+         (apply swap! database op args)
+         (assoc-in context [:request :database] @database))
+       context))})
+
 (defn response [status body & {:as headers}]
   {:status status :body body :headers headers})
 
