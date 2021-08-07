@@ -1,9 +1,8 @@
 {:protocol         "HTTP/1.1"
  :async-supported? true
  :remote-addr      "127.0.0.1"
- :params           {:name "Ashtray"}
- :servlet-response #object[org.eclipse.jetty.server.Response 0x4ec4c143 "HTTP/1.1 200 \nDate: Fri, 06 Aug 2021 22:48:30 GMT\r\nStrict-Transport-Security: max-age=31536000; includeSubdomains\r\nX-Frame-Options: DENY\r\nX-Content-Type-Options: nosniff\r\nX-XSS-Protection: 1; mode=block\r\nX-Download-Options: noopen\r\nX-Permitted-Cross-Domain-Policies: none\r\nContent-Security-Policy: object-src 'none'; script-src 'unsafe-inline' 'unsafe-eval' 'strict-dynamic' https: http:;\r\nContent-Type: application/edn\r\n\r\n"]
- :servlet          #object[io.pedestal.http.servlet.FnServlet 0x78828aca "io.pedestal.http.servlet.FnServlet@78828aca"]
+ :servlet-response #object[org.eclipse.jetty.server.Response 0x52c12b25 "HTTP/1.1 200 \nDate: Sat, 07 Aug 2021 02:11:14 GMT\r\nStrict-Transport-Security: max-age=31536000; includeSubdomains\r\nX-Frame-Options: DENY\r\nX-Content-Type-Options: nosniff\r\nX-XSS-Protection: 1; mode=block\r\nX-Download-Options: noopen\r\nX-Permitted-Cross-Domain-Policies: none\r\nContent-Security-Policy: object-src 'none'; script-src 'unsafe-inline' 'unsafe-eval' 'strict-dynamic' https: http:;\r\nContent-Type: application/edn\r\n\r\n"]
+ :servlet          #object[io.pedestal.http.servlet.FnServlet 0x126aaaa5 "io.pedestal.http.servlet.FnServlet@126aaaa5"]
  :headers          {"sec-fetch-site"            "none"
                     "host"                      "localhost:8890"
                     "user-agent"                "Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:90.0) Gecko/20100101 Firefox/90.0"
@@ -18,16 +17,15 @@
                     "dnt"                       "1"
                     "sec-gpc"                   "1"}
  :server-port      8890
- :servlet-request  #object[org.eclipse.jetty.server.Request 0x69996364 "Request(GET //localhost:8890/greet?name=Ashtray)@69996364"]
- :query-params     {:name "Ashtray"}
- :path-info        "/greet"
- :url-for          #object[clojure.lang.Delay 0x5dbdabdd {:status :pending
+ :servlet-request  #object[org.eclipse.jetty.server.Request 0x3d721aa3 "Request(GET //localhost:8890/echo)@3d721aa3"]
+ :path-info        "/echo"
+ :url-for          #object[clojure.lang.Delay 0x45e3797f {:status :pending
                                                           :val    nil}]
- :uri              "/greet"
+ :uri              "/echo"
  :server-name      "localhost"
- :query-string     "name=Ashtray"
+ :query-string     nil
  :path-params      []
- :body             #object[org.eclipse.jetty.server.HttpInputOverHTTP 0x381b929a "HttpInputOverHTTP@381b929a[c=0,q=0,[0]=null,s=STREAM]"]
+ :body             #object[org.eclipse.jetty.server.HttpInputOverHTTP 0x6869d462 "HttpInputOverHTTP@6869d462[c=0,q=0,[0]=null,s=STREAM]"]
  :scheme           :http
  :request-method   :get
  :context-path     ""}
