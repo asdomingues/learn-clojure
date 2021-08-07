@@ -3,6 +3,23 @@
             [io.pedestal.http.route :as route]
             [io.pedestal.test :as test]))
 
+(defn make-list [nm]
+  {:name  nm
+   :items {}})
+
+(defn make-list-item [nm]
+  {:name  nm
+   :done? false})
+
+(def list-create
+  {:name :list-create
+   :enter
+   (fn [context]
+     (let [nm       (get-in context [:request :query-params :name] "Default List")
+           new-list (make-list nm)
+           db-id    (str (gensym "l"))]
+       (assoc context :tx-data [assoc db-id new-list])))})
+
 (defonce database (atom {}))
 
 (def db-interceptor
@@ -35,7 +52,7 @@
 
 (def routes
   (route/expand-routes
-   #{["/todo"                    :post   echo :route-name :list-create]
+   #{["/todo"                    :post   [db-interceptor list-create]]
      ["/todo"                    :get    echo :route-name :list-query-form]
      ["/todo/:list-id"           :get    echo :route-name :list-view]
      ["/todo/:list-id"           :post   echo :route-name :list-item-create]
