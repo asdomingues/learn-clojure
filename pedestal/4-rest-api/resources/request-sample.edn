@@ -1,0 +1,57 @@
+{:io.pedestal.interceptor.chain/stack        (#Interceptor{:name :echo} #Interceptor{:name :io.pedestal.http.route/router} #Interceptor{:name :io.pedestal.http.secure-headers/secure-headers} #Interceptor{:name :io.pedestal.http.route/method-param} #Interceptor{:name :io.pedestal.http.route/path-params-decoder} #Interceptor{:name :io.pedestal.http.route/query-params} #Interceptor{:name :io.pedestal.http.ring-middlewares/content-type-interceptor} #Interceptor{:name :io.pedestal.http/not-found} #Interceptor{:name :io.pedestal.http/log-request} #Interceptor{:name :io.pedestal.http.impl.servlet-interceptor/ring-response} #Interceptor{:name :io.pedestal.http.impl.servlet-interceptor/stylobate} #Interceptor{:name :io.pedestal.http.impl.servlet-interceptor/terminator-injector})
+ :request                                    {:protocol         "HTTP/1.1"
+                                              :async-supported? true
+                                              :remote-addr      "127.0.0.1"
+                                              :servlet-response #object[org.eclipse.jetty.server.Response 0x69f517d6 "HTTP/1.1 200 \nDate: Sat, 07 Aug 2021 17:54:32 GMT\r\nStrict-Transport-Security: max-age=31536000; includeSubdomains\r\nX-Frame-Options: DENY\r\nX-Content-Type-Options: nosniff\r\nX-XSS-Protection: 1; mode=block\r\nX-Download-Options: noopen\r\nX-Permitted-Cross-Domain-Policies: none\r\nContent-Security-Policy: object-src 'none'; script-src 'unsafe-inline' 'unsafe-eval' 'strict-dynamic' https: http:;\r\nContent-Type: application/edn\r\n\r\n"]
+                                              :servlet          #object[io.pedestal.http.servlet.FnServlet 0x2737fd1d "io.pedestal.http.servlet.FnServlet@2737fd1d"]
+                                              :headers          {"sec-fetch-site"            "none"
+                                                                 "host"                      "localhost:8890"
+                                                                 "user-agent"                "Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:90.0) Gecko/20100101 Firefox/90.0"
+                                                                 "sec-fetch-user"            "?1"
+                                                                 "connection"                "keep-alive"
+                                                                 "upgrade-insecure-requests" "1"
+                                                                 "accept"                    "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8"
+                                                                 "accept-language"           "en-US,pt-BR;q=0.8,es-PE;q=0.5,en;q=0.3"
+                                                                 "sec-fetch-dest"            "document"
+                                                                 "accept-encoding"           "gzip, deflate"
+                                                                 "sec-fetch-mode"            "navigate"
+                                                                 "dnt"                       "1"
+                                                                 "sec-gpc"                   "1"}
+                                              :server-port      8890
+                                              :servlet-request  #object[org.eclipse.jetty.server.Request 0x6dca8e30 "Request(GET //localhost:8890/todo/2022-W32/learn-clojure)@6dca8e30"]
+                                              :path-info        "/todo/2022-W32/learn-clojure"
+                                              :url-for          #object[clojure.lang.Delay 0x48e7e2a2 {:status :pending
+                                                                                                       :val    nil}]
+                                              :uri              "/todo/2022-W32/learn-clojure"
+                                              :server-name      "localhost"
+                                              :query-string     nil
+                                              :path-params      {:list-id "2022-W32"
+                                                                 :item-id "learn-clojure"}
+                                              :body             #object[org.eclipse.jetty.server.HttpInputOverHTTP 0x5820f551 "HttpInputOverHTTP@5820f551[c=0,q=0,[0]=null,s=STREAM]"]
+                                              :scheme           :http
+                                              :request-method   :get
+                                              :context-path     ""}
+ :bindings                                   {#'io.pedestal.http.route/*url-for* #object[clojure.lang.Delay 0x48e7e2a2 {:status :pending
+                                                                                                                        :val    nil}]}
+ :enter-async                                [#object[io.pedestal.http.impl.servlet_interceptor$start_servlet_async 0x655b47a "io.pedestal.http.impl.servlet_interceptor$start_servlet_async@655b47a"]]
+ :io.pedestal.interceptor.chain/terminators  (#object[io.pedestal.http.impl.servlet_interceptor$terminator_inject$fn__15731 0x17321c92 "io.pedestal.http.impl.servlet_interceptor$terminator_inject$fn__15731@17321c92"])
+ :servlet-response                           #object[org.eclipse.jetty.server.Response 0x69f517d6 "HTTP/1.1 200 \nDate: Sat, 07 Aug 2021 17:54:32 GMT\r\nStrict-Transport-Security: max-age=31536000; includeSubdomains\r\nX-Frame-Options: DENY\r\nX-Content-Type-Options: nosniff\r\nX-XSS-Protection: 1; mode=block\r\nX-Download-Options: noopen\r\nX-Permitted-Cross-Domain-Policies: none\r\nContent-Security-Policy: object-src 'none'; script-src 'unsafe-inline' 'unsafe-eval' 'strict-dynamic' https: http:;\r\nContent-Type: application/edn\r\n\r\n"]
+ :route                                      {:path                                                      "/todo/:list-id/:item-id"
+                                              :method                                                    :get
+                                              :path-constraints                                          {:list-id "([^/]+)"
+                                                                                                          :item-id "([^/]+)"}
+                                              :io.pedestal.http.route.prefix-tree/satisfies-constraints? #object[io.pedestal.http.route.prefix_tree$add_satisfies_constraints_QMARK_$fn__11500 0x4265434c "io.pedestal.http.route.prefix_tree$add_satisfies_constraints_QMARK_$fn__11500@4265434c"]
+                                              :path-re                                                   #"/\Qtodo\E/([^/]+)/([^/]+)"
+                                              :path-parts                                                ["todo" :list-id :item-id]
+                                              :interceptors                                              [#Interceptor{:name :echo}]
+                                              :route-name                                                :list-item-view
+                                              :path-params                                               {:list-id "2022-W32"
+                                                                                                          :item-id "learn-clojure"}}
+ :servlet                                    #object[io.pedestal.http.servlet.FnServlet 0x2737fd1d "io.pedestal.http.servlet.FnServlet@2737fd1d"]
+ :servlet-request                            #object[org.eclipse.jetty.server.Request 0x6dca8e30 "Request(GET //localhost:8890/todo/2022-W32/learn-clojure)@6dca8e30"]
+ :io.pedestal.interceptor.chain/queue        #object[clojure.lang.PersistentQueue 0x5ec09762 "clojure.lang.PersistentQueue@1"]
+ :url-for                                    #object[clojure.lang.Delay 0x48e7e2a2 {:status :pending
+                                                                                    :val    nil}]
+ :io.pedestal.interceptor.chain/execution-id 8
+ :servlet-config                             #object[org.eclipse.jetty.servlet.ServletHolder$Config 0x287b84d5 "org.eclipse.jetty.servlet.ServletHolder$Config@287b84d5"]
+ :async?                                     #object[io.pedestal.http.impl.servlet_interceptor$servlet_async_QMARK_ 0x538fac06 "io.pedestal.http.impl.servlet_interceptor$servlet_async_QMARK_@538fac06"]}
