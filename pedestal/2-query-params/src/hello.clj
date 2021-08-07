@@ -2,8 +2,23 @@
   (:require [io.pedestal.http :as http]
             [io.pedestal.http.route :as route]))
 
+(defn ok [body]
+  {:status 200 :body body})
+
+(defn bad-request [body]
+  {:status 400 :body body})
+
+(defn greeting-for [nm]
+  (if (nil? nm)
+    "Hello, world!\n"
+    (str "Hello, " nm "\n")))
+
 (defn respond-hello [request]
-  {:status 200 :body "Hello, world!"})
+  (let [nm   (get-in request [:query-params :name])
+        resp (if (not= "" nm)
+               (ok (greeting-for nm))
+               (bad-request "Zero-length name used as parameter."))]
+    resp))
 
 (def routes
   (route/expand-routes
